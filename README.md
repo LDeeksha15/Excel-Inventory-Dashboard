@@ -12,7 +12,7 @@ This project showcases an interactive Inventory Management Dashboard built using
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables and Pivot Charts
-- Interactive Slicers (Date, Region, Category, Store ID)
+- Interactive Slicers (Month, Years,Region, Category, Store ID)
 
 ## Insights & Business Value
 The dashboard highlights stock distribution, sales trends, pricing behavior, and discount effectiveness. It helps identify high-performing products, potential stock shortages, and areas for inventory optimization.
