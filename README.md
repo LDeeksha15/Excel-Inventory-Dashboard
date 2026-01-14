@@ -1,4 +1,4 @@
-# Inventory-Dashboard
+# Excel-Inventory-Dashboard
 This project showcases an interactive Inventory Management Dashboard built using Microsoft Excel. The dashboard analyzes inventory and sales data to support data-driven business decisions.
 
 ## Key Analysis
