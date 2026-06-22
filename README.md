@@ -1,21 +1,28 @@
-# Inventory-Dashboard
-This project showcases an interactive Inventory Management Dashboard built using Microsoft Excel. The dashboard analyzes inventory and sales data to support data-driven business decisions.
+# Inventory Management Dashboard
 
-## Key Analysis
-- Inventory Level by Store and Category
-- Units Sold Trend Over Time
-- Demand Forecast vs Actual Sales
-- Average Price Analysis by Product Category
-- Discount Impact on Sales
-- Sales Performance by Store and Category
+## Dashboard Preview
+
+![Inventory Dashboard](https://raw.githubusercontent.com/LDeeksha15/Excel-Inventory-Dashboard/main/Inventory_Dashboard.jpeg)
+
+## Project Overview
+Developed an interactive Inventory Management Dashboard analyzing 73K+ inventory and sales records across multiple stores, categories, and regions.
+
+## Features
+- 6 Interactive Visualizations
+- 5 Dynamic Slicers (Year, Month, Region, Category, Store ID)
+- Inventory Level Analysis
+- Sales Trend Analysis
+- Demand Forecasting Analysis
+- Pricing Analysis
+- Discount Impact Analysis
 
 ## Tools Used
 - Microsoft Excel
-- Pivot Tables and Pivot Charts
-- Interactive Slicers (Month, Years,Region, Category, Store ID)
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Report Connections
 
-## Insights & Business Value
-The dashboard highlights stock distribution, sales trends, pricing behavior, and discount effectiveness. It helps identify high-performing products, potential stock shortages, and areas for inventory optimization.
+## Skills
+Data Analysis, Data Visualization, Dashboard Development, Inventory Analytics, Sales Analytics, Business Intelligence, Reporting
 
-## Outcome
-A clean, interactive, and business-oriented dashboard suitable for academic evaluation and real-world industry use.
